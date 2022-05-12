@@ -147,7 +147,6 @@ footer .center {
 }
 
 footer {
-  display: flex;
   font-weight: 600;
   margin-right: 1rem;
   flex-direction: row-reverse;

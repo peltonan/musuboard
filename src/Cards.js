@@ -5,13 +5,13 @@ export const cards = [
     {
         polaroid: test,
         caption: "Test",
-    },
+    },/* 
     {
-        polaroid: test,
+        polaroid: funny,
         caption: "Test",
     },
     {
-        polaroid: test,
+        polaroid: moonaries,
         caption: "Test",
     },
     {
@@ -26,29 +26,6 @@ export const cards = [
         polaroid: test,
         caption: "Test",
     }, {
-        polaroid: test,
-        caption: "Test",
-    },
-    {
-        polaroid: test,
-        caption: "Test",
-    },
-    {
-        polaroid: test,
-        caption: "Test",
-    }, {
-        polaroid: test,
-        caption: "Test",
-    },
-    {
-        polaroid: test,
-        caption: "Test",
-    },
-    {
-        polaroid: test,
-        caption: "Test",
-    },
-    {
         polaroid: test,
         caption: "Test",
     },
@@ -105,6 +82,21 @@ export const cards = [
     {
         polaroid: test,
         caption: "Test",
+    }, {
+        polaroid: test,
+        caption: "Test",
+    },
+    {
+        polaroid: test,
+        caption: "Test",
+    },
+    {
+        polaroid: test,
+        caption: "Test",
+    },
+    {
+        polaroid: test,
+        caption: "Test",
     },
     {
         polaroid: test,
@@ -122,4 +114,12 @@ export const cards = [
         polaroid: test,
         caption: "Test",
     },
+    {
+        polaroid: test,
+        caption: "Test",
+    },
+    {
+        polaroid: test,
+        caption: "Test",
+    }, */
 ]
