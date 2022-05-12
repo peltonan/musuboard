@@ -8,6 +8,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <h1>MusuBoard</h1>
+        <h2>May Posts</h2>
         <div class="wrapper">
           <div class="item">
             <div class="polaroid"><img src={test} />
