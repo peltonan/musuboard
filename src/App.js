@@ -27,6 +27,11 @@ function App() {
 
         </div>
       </header>
+      <footer>
+        <div className="center">
+          <span>May 2022</span>
+        </div>
+      </footer>
     </div>
   );
 }
