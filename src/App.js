@@ -10,9 +10,11 @@ function App() {
   }, []);
 
   return (
+
     <div className="App">
       <header className="App-header">
         <h1>MusuBoard</h1>
+        <h2>Minecraft Ideas</h2>
         <div className="wrapper">
           {cards.map((card) => {
             return (
@@ -27,12 +29,13 @@ function App() {
 
         </div>
       </header>
-      <footer>
+      {/*  <footer>
         <div className="center">
           <span>May 2022</span>
         </div>
-      </footer>
+      </footer> */}
     </div>
+
   );
 }
 export default App;

@@ -1,22 +1,25 @@
+@import url('http://fonts.cdnfonts.com/css/minecraft-4');
+
 .App-header {
   min-height: 100vh;
 }
 
-/* body {
-  background: linear-gradient(0deg, rgba(0, 255, 196, 1) 0%, rgba(242, 207, 255, 1) 50%, rgba(19, 177, 210, 1) 100%);
-} */
+body {
+  background: linear-gradient(0deg, rgba(101, 72, 50, 1) 0%, rgba(73, 117, 55, 1) 50%, rgba(129, 172, 255, 1) 100%);
+}
 
-/* h1 {
+h1 {
+  font-family: 'Minecraft', sans-serif;
   font-weight: 800;
   color: rgb(47, 47, 47);
   font-size: 80px;
   text-align: center;
-  letter-spacing: -6px;
-} */
+}
 
 h2 {
-  text-transform: uppercase;
-  color: #ffa500;
+  font-family: 'Minecraft', sans-serif;
+  font-size: 30px;
+  color: rgb(47, 47, 47);
   text-align: center;
 }
 
@@ -33,7 +36,7 @@ h2 {
 }
 
 .polaroid {
-  background: #fff;
+  background: #f9ffff;
   padding: 1rem;
   box-shadow: 0 0.2rem 1.2rem rgba(0, 0, 0, 0.2);
 
@@ -140,7 +143,7 @@ h2 {
   transition: all 0.35s;
 }
 
-
+/* 
 footer .center {
   color: #ffa500;
   text-align: center;
@@ -159,7 +162,7 @@ footer {
     margin: auto;
     font-size: 10px;
   }
-}
+} */
 
 
 @media only screen and (max-width: 1500px) {
@@ -167,5 +170,11 @@ footer {
     width: 100%;
     padding: 0 2rem;
     text-align: center;
+  }
+}
+
+@media only screen and (max-width: 555px) {
+  h1 {
+    font-size: 60px;
   }
 }

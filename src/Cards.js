@@ -1,91 +1,117 @@
-import test from './images/animeMe.jpg'
+import axolotl from './images/axolotl.webp'
+import llama from './images/llama.webp'
+import cats from './images/cats.webp'
+import bees from './images/bees.webp'
+import foxes from './images/foxes.webp'
+import sheep from './images/sheep.webp'
+import turtle from './images/turtle.webp'
+import dog from './images/dog.webp'
+import parrots from './images/parrots.avif'
+import dolphin from './images/dolphin.webp'
+import fish from './images/fish.avif'
+import dyes from './images/dyes.avif'
+import glazedterracotta from './images/glazedterracotta.webp'
+import terracotta from './images/terracotta.png'
+import concrete from './images/concrete.jpg'
+import glass from './images/glass.jpg'
+import flowers from './images/flowers.avif'
+import sporeblossom from './images/sporeblossom.avif'
+import azalea from './images/azalea.webp'
+import candles from './images/candles.jpg'
+import glowberries from './images/glowberries.jpg'
+import glowsquid from './images/glowsquid.webp'
+
 
 export const cards = [
 
     {
-        polaroid: test,
-        caption: "Test",
-    },/* 
-    {
-        polaroid: funny,
-        caption: "Test",
+        polaroid: axolotl,
+        caption: "Find all 5 Axolotls",
     },
     {
-        polaroid: moonaries,
-        caption: "Test",
+        polaroid: llama,
+        caption: "Get all 16 Llamas",
     },
     {
-        polaroid: test,
-        caption: "Test",
+        polaroid: cats,
+        caption: "Get all 10 Cats",
     },
     {
-        polaroid: test,
-        caption: "Test",
+        polaroid: bees,
+        caption: "Have Bees",
     },
     {
-        polaroid: test,
-        caption: "Test",
-    }, {
-        polaroid: test,
-        caption: "Test",
+        polaroid: foxes,
+        caption: "Have Foxes",
     },
     {
-        polaroid: test,
-        caption: "Test",
+        polaroid: sheep,
+        caption: "Get all 16 Sheep",
     },
     {
-        polaroid: test,
-        caption: "Test",
-    }, {
-        polaroid: test,
-        caption: "Test",
+        polaroid: turtle,
+        caption: "Have Turtles",
     },
     {
-        polaroid: test,
-        caption: "Test",
+        polaroid: dog,
+        caption: "Have all 16 Dogs",
     },
     {
-        polaroid: test,
-        caption: "Test",
+        polaroid: parrots,
+        caption: "Get all 5 Parrots",
     },
     {
-        polaroid: test,
-        caption: "Test",
+        polaroid: dolphin,
+        caption: "Have Dolphins",
     },
     {
-        polaroid: test,
-        caption: "Test",
+        polaroid: fish,
+        caption: "Get all 22 Tropical Fish",
     },
     {
-        polaroid: test,
-        caption: "Test",
-    }, {
-        polaroid: test,
-        caption: "Test",
+        polaroid: dyes,
+        caption: "Get all 16 Dyes",
     },
     {
-        polaroid: test,
-        caption: "Test",
+        polaroid: glazedterracotta,
+        caption: "Get all 16 Glazed Terracotta",
     },
     {
-        polaroid: test,
-        caption: "Test",
+        polaroid: terracotta,
+        caption: "Get all 17 Terrcotta",
     },
     {
-        polaroid: test,
-        caption: "Test",
+        polaroid: concrete,
+        caption: "Get all 16 Concrete",
     },
     {
-        polaroid: test,
-        caption: "Test",
+        polaroid: glass,
+        caption: "Get all 17 Glass",
     },
     {
-        polaroid: test,
-        caption: "Test",
-    }, {
-        polaroid: test,
-        caption: "Test",
+        polaroid: flowers,
+        caption: "Get all 14 Flowers",
     },
+    {
+        polaroid: sporeblossom,
+        caption: "Find a Spore Blossom",
+    },
+    {
+        polaroid: azalea,
+        caption: "Find Azalea Tree",
+    },
+    {
+        polaroid: candles,
+        caption: "Make all 17 Candles",
+    },
+    {
+        polaroid: glowberries,
+        caption: "Find Glowberries",
+    },
+    {
+        polaroid: glowsquid,
+        caption: "Find Glowsquids",
+    },/*
     {
         polaroid: test,
         caption: "Test",
