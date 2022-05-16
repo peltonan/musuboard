@@ -29,11 +29,11 @@ function App() {
 
         </div>
       </header>
-      {/*  <footer>
+      <footer>
         <div className="center">
-          <span>May 2022</span>
+          <span>Disclaimer: This site is for personal use only</span>
         </div>
-      </footer> */}
+      </footer>
     </div>
 
   );

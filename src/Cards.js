@@ -20,7 +20,7 @@ import azalea from './images/azalea.webp'
 import candles from './images/candles.jpg'
 import glowberries from './images/glowberries.jpg'
 import glowsquid from './images/glowsquid.webp'
-
+import subwoolfer from './images/subwoolfer.jpg'
 
 export const cards = [
 
@@ -111,11 +111,11 @@ export const cards = [
     {
         polaroid: glowsquid,
         caption: "Find Glowsquids",
-    },/*
-    {
-        polaroid: test,
-        caption: "Test",
     },
+    {
+        polaroid: subwoolfer,
+        caption: "Make a Subwoolfer Tower",
+    }, /*
     {
         polaroid: test,
         caption: "Test",

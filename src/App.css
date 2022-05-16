@@ -143,10 +143,11 @@ h2 {
   transition: all 0.35s;
 }
 
-/* 
+
 footer .center {
-  color: #ffa500;
-  text-align: center;
+  color: rgb(59, 42, 29);
+  font-size: 15px;
+  text-align: right;
 }
 
 footer {
@@ -162,7 +163,7 @@ footer {
     margin: auto;
     font-size: 10px;
   }
-} */
+}
 
 
 @media only screen and (max-width: 1500px) {
